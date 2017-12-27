@@ -1,0 +1,4 @@
+package: github.com/zuf/laptop-rotate-fix
+import:
+- package: github.com/godbus/dbus
+  version: ^4.1.0
