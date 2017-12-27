@@ -9,14 +9,14 @@ For now only works for HP Spectre 360 (kaby lake).
 ```bash
 $ make
 
-$ sudo make install # places built binary to /usr/local/bin/laptop-rotate-fix
+$ sudo make install # places built binary to /usr/local/bin/laptop-rotation-fix
 ```
 
 Autostart this app with desktop environment.
 
 ```bash
 $ cp laptop-rotation-fix.desktop $HOME/.config/autostart/
-$ chmod a+x $HOME/.config/autostart/
+$ chmod a+x $HOME/.config/autostart/laptop-rotation-fix
 ```
 
 ## License

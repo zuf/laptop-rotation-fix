@@ -2,4 +2,4 @@
 Name=Laptop rotation fix
 Comment=Rotate pen coordinates when laptop rotated
 Type=Application
-Exec=/usr/local/bin/laptop-rotate-fix
+Exec=/usr/local/bin/laptop-rotation-fix
